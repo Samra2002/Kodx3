@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #604E06;
+  margin: 0px;
+  padding: 0px;
+}
+
+.logo {
+  color: white;
+  background-color: #826501;
+  height: 90px;
+  margin: 10px 100px;
+  padding: 35px;
+  text-align: center;
+  font-size: 24px;
+}
+.nav {
+  text-align: center;
+  color: white;
+  background-color: #826501;
+  height: 70px;
+  padding: 25px 0;
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-size: 24px;
+  font-family: 'Permanent Marker', sans-serif;
+}
+
+.container {
+    background-color: #fff;
+    margin: 0 100px;
+    height: 100vh;
+}
+
+.pages {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.heading {
+    font-size: 28px;
+    font-family: 'Permanent Marker', sans-serif;
+    color: #826501;
+}
+
+.line {
+    margin: 50px 0;
+    border-style: dashed;
+}
+.heading2 {
+    font-size: 25px;
+    font-family: 'Permanent Marker', sans-serif;
+    color: #826501;
+}
+.block {
+    display: inline-block;
+    padding: 100px 100px;
+    margin: 0 18px;
+    font-size: 28px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #826501;
+}
+.about {
+    margin: 20px 50px;
+}
+.text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}

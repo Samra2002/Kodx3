@@ -1,0 +1,19 @@
+.heading {
+    color: blueviolet;
+    text-align: center;
+}
+.section {
+    color: green;
+
+}
+
+.intro {
+    color: red;
+}
+.dig {
+    color: coral;
+    font-style: italic;
+}
+.qui {
+    background-color: yellow;
+}

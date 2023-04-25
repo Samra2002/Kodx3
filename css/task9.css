@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first {
+    border: 1px solid;
+    color: black;
+    margin: 200px;
+}
+.second {
+    border: 1px solid;
+    color: red; 
+}
+.third {
+    border: 1px solid;
+    color: black;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.fourth {
+    border: 1px solid;
+    color: black;
+    margin-top: 30px;
+    margin-right: 100px;
+}
